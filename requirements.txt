@@ -1,4 +1,4 @@
-certifi==2024.8.29
+certifi==2024.7.4
 Click==8.1.6
 Flask==2.3.3
 Flask-Cors==4.0.2
